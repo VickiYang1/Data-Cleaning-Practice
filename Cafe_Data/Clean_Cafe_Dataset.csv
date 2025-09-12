@@ -1,0 +1,1001 @@
+"Transaction ID",Item,Quantity,"Price Per Unit","Total Spent","Payment Method",Location,"Transaction Date"
+1961373,Coffee,2,2,4.0,"Credit Card",Takeaway,2023-09-08
+4977031,Cake,4,3,12.0,Cash,In-store,2023-05-16
+4271903,Cookie,4,1,4,"Credit Card",In-store,2023-07-19
+7034554,Salad,2,5,10.0,UNKNOWN,UNKNOWN,2023-04-27
+3160411,Coffee,2,2,4.0,"Digital Wallet",In-store,2023-06-11
+2602893,Smoothie,5,4,20.0,"Credit Card",UNKNOWN,2023-03-31
+6699534,Sandwich,4,4,16.0,Cash,UNKNOWN,2023-10-28
+2064365,Sandwich,5,4,20.0,UNKNOWN,In-store,2023-12-31
+2548360,Salad,5,5,25.0,Cash,Takeaway,2023-11-07
+3051279,Sandwich,2,4,8.0,"Credit Card",Takeaway,ERROR
+7619095,Sandwich,2,4,8.0,Cash,In-store,2023-05-03
+9437049,Cookie,5,1,5.0,UNKNOWN,Takeaway,2023-06-01
+2847255,Salad,3,5,15.0,"Credit Card",In-store,2023-11-15
+3765707,Sandwich,1,4,4.0,UNKNOWN,UNKNOWN,2023-06-10
+6769710,Juice,2,3,6.0,Cash,In-store,2023-02-24
+8876618,Cake,5,3,15.0,Cash,ERROR,2023-03-25
+3709394,Juice,4,3,12.0,Cash,Takeaway,2023-01-15
+3567645,Smoothie,4,4,16.0,"Credit Card",Takeaway,2023-03-30
+5132361,Sandwich,3,4,12.0,"Digital Wallet",Takeaway,2023-12-01
+2616390,Sandwich,2,4,8.0,UNKNOWN,UNKNOWN,2023-09-18
+9400181,Sandwich,5,4,20.0,Cash,In-store,2023-06-03
+7958992,Smoothie,3,4,12,UNKNOWN,UNKNOWN,2023-12-13
+5183041,Cookie,5,1,5.0,"Credit Card",In-store,2023-04-20
+5695074,Juice,4,3,12.0,"Credit Card",Takeaway,2023-04-10
+8467949,Smoothie,5,4,20.0,"Credit Card",UNKNOWN,2023-03-11
+7640952,Cake,4,3,12.0,"Digital Wallet",Takeaway,ERROR
+9677376,Smoothie,4,4,16.0,UNKNOWN,In-store,2023-08-15
+8853997,Smoothie,2,4,8.0,"Digital Wallet",Takeaway,2023-10-09
+9130559,Sandwich,1,4,4.0,"Credit Card",UNKNOWN,2023-05-28
+1080432,Salad,2,5,10.0,"Credit Card",In-store,2023-04-29
+2655815,Smoothie,4,4,16.0,UNKNOWN,Takeaway,2023-06-08
+6688524,Coffee,4,2,8.0,ERROR,UNKNOWN,2023-06-29
+2083138,Smoothie,3,4,12.0,UNKNOWN,In-store,2023-04-17
+2427584,Sandwich,4,4,16.0,UNKNOWN,Takeaway,2023-12-22
+6650263,Tea,2,1.5,3,UNKNOWN,Takeaway,2023-01-10
+9620080,Juice,4,3,12.0,UNKNOWN,Takeaway,2023-10-02
+1491578,Cookie,2,1,2.0,UNKNOWN,UNKNOWN,2023-02-23
+5455792,Salad,3,5,15.0,Cash,UNKNOWN,2023-03-22
+8078640,Juice,4,3,12.0,"Digital Wallet",In-store,2023-11-03
+9499313,Juice,5,3,15.0,UNKNOWN,UNKNOWN,2023-03-02
+8201146,Juice,5,3,15.0,Cash,UNKNOWN,2023-06-26
+8230936,Cake,3,3,9.0,UNKNOWN,ERROR,2023-05-02
+7742742,Cake,5,3,15.0,UNKNOWN,Takeaway,2023-09-05
+6342161,Salad,5,5,25.0,ERROR,Takeaway,2023-01-08
+3363746,Smoothie,3,4,12.0,"Credit Card",UNKNOWN,2023-11-25
+8614868,Smoothie,5,4,20.0,"Digital Wallet",Takeaway,2023-12-05
+6421134,Sandwich,4,4,16.0,Cash,Takeaway,2023-11-03
+8813311,Juice,5,3,15.0,UNKNOWN,In-store,2023-10-07
+9023317,Salad,1,5,5.0,UNKNOWN,UNKNOWN,2023-09-30
+2537617,Sandwich,1,4,4.0,Cash,UNKNOWN,2023-05-27
+9230615,Smoothie,4,4,16.0,"Digital Wallet",UNKNOWN,2023-06-01
+3068204,Cookie,1,1,1.0,"Credit Card",Takeaway,2023-10-03
+2621580,Tea,2,1.5,3.0,Cash,In-store,2023-03-22
+4726376,Cake,2,3,6.0,"Credit Card",In-store,2023-01-31
+4238417,Salad,2,5,10.0,UNKNOWN,ERROR,2023-06-19
+1900620,Smoothie,2,4,8.0,"Credit Card",ERROR,2023-12-14
+6420335,Coffee,1,2,2.0,Cash,Takeaway,2023-07-16
+3858209,Sandwich,4,4,16.0,Cash,UNKNOWN,2023-02-22
+2091733,Salad,1,5,5.0,UNKNOWN,In-store,UNKNOWN
+8735480,Tea,5,1.5,7.5,Cash,UNKNOWN,2023-06-02
+3829165,Juice,4,3,12.0,Cash,In-store,2023-06-15
+3748616,Coffee,2,2,4.0,"Credit Card",In-store,2023-12-09
+1993289,Sandwich,2,4,8.0,UNKNOWN,In-store,2023-04-18
+2123367,Cookie,2,1,2.0,UNKNOWN,UNKNOWN,2023-11-07
+5266394,Cake,3,3,9.0,Cash,In-store,2023-10-28
+5107946,Cake,4,3,12.0,"Credit Card",UNKNOWN,2023-12-22
+8718498,Cake,5,3,15.0,"Credit Card",ERROR,2023-04-30
+3955361,Cookie,5,1,5.0,UNKNOWN,Takeaway,2023-04-02
+8976658,Tea,2,1.5,3.0,"Credit Card",In-store,2023-08-16
+2725602,Juice,5,3,15.0,"Credit Card",UNKNOWN,2023-09-10
+3011323,Coffee,3,2,6.0,"Credit Card",UNKNOWN,2023-03-07
+6289610,Juice,3,3,9,Cash,Takeaway,2023-08-07
+8268061,Salad,3,5,15.0,ERROR,Takeaway,2023-08-20
+5220895,Salad,5,5,25.0,Cash,In-store,2023-06-10
+3085509,Coffee,4,2,8.0,"Digital Wallet",In-store,2023-04-15
+9999113,Juice,4,3,12.0,Cash,Takeaway,2023-05-27
+8779771,Coffee,4,2,8.0,Cash,In-store,2023-07-25
+1621920,Salad,3,5,15.0,UNKNOWN,Takeaway,2023-10-28
+3808639,Juice,2,3,6.0,"Digital Wallet",Takeaway,2023-12-15
+7028009,Cake,4,3,12.0,UNKNOWN,Takeaway,ERROR
+6955416,Salad,4,5,20.0,ERROR,In-store,2023-02-25
+3775339,Cookie,3,1,3.0,"Credit Card",UNKNOWN,2023-04-03
+9547091,Cookie,3,1,3.0,"Credit Card",UNKNOWN,2023-10-08
+4358673,Cookie,5,1,5.0,"Digital Wallet",Takeaway,2023-12-28
+4174591,Tea,4,1.5,6.0,"Digital Wallet",UNKNOWN,2023-08-30
+3398520,Sandwich,1,4,4.0,UNKNOWN,In-store,2023-02-03
+6171384,Smoothie,2,4,8.0,"Credit Card",UNKNOWN,2023-09-12
+2530938,Smoothie,5,4,20.0,UNKNOWN,Takeaway,2023-04-27
+3314971,Juice,3,3,9.0,"Digital Wallet",UNKNOWN,2023-05-04
+3092382,Coffee,5,2,10.0,"Digital Wallet",UNKNOWN,2023-02-21
+1001832,Salad,2,5,10.0,Cash,Takeaway,UNKNOWN
+1535311,Juice,3,3,9.0,Cash,UNKNOWN,2023-03-16
+4368416,Salad,2,5,10.0,"Credit Card",Takeaway,2023-02-24
+9790731,Cake,2,3,6.0,UNKNOWN,UNKNOWN,2023-06-02
+9339456,Coffee,3,2,6.0,UNKNOWN,Takeaway,2023-03-29
+5179020,Cake,2,3,6.0,UNKNOWN,Takeaway,2023-06-18
+6258471,Coffee,5,2,10.0,"Digital Wallet",In-store,2023-09-23
+7945375,Juice,3,3,9.0,UNKNOWN,UNKNOWN,2023-01-14
+4685453,Tea,4,1.5,6.0,Cash,In-store,2023-09-14
+9646452,Juice,5,3,15.0,"Credit Card",UNKNOWN,2023-09-16
+9096052,Smoothie,4,4,16.0,"Credit Card",Takeaway,2023-12-28
+5916991,Juice,2,3,6.0,"Digital Wallet",Takeaway,2023-02-06
+3407169,Sandwich,2,4,8.0,Cash,In-store,2023-03-11
+2277042,Tea,1,1.5,1.5,Cash,UNKNOWN,2023-04-08
+9273729,Tea,1,1.5,1.5,UNKNOWN,UNKNOWN,2023-12-19
+2181545,Juice,4,3,12.0,"Credit Card",Takeaway,2023-07-14
+1150033,Juice,5,3,15.0,Cash,In-store,2023-04-18
+1443912,Juice,2,3,6.0,UNKNOWN,UNKNOWN,2023-06-08
+8700451,Tea,5,1.5,7.5,"Credit Card",Takeaway,2023-12-12
+6380550,Coffee,5,2,10.0,Cash,In-store,2023-01-05
+4885518,Salad,3,5,15.0,"Credit Card",In-store,2023-06-10
+3972167,Sandwich,5,4,20.0,UNKNOWN,In-store,2023-01-23
+4878378,Tea,1,1.5,1.5,"Credit Card",UNKNOWN,2023-02-20
+2368126,Cake,5,3,15.0,UNKNOWN,In-store,2023-12-06
+7943008,Coffee,1,2,2.0,"Credit Card",UNKNOWN,ERROR
+8495063,Juice,1,3,3,Cash,UNKNOWN,2023-05-31
+4811133,Salad,2,5,10.0,Cash,UNKNOWN,2023-08-11
+8729570,Tea,5,1.5,7.5,UNKNOWN,In-store,2023-09-03
+7623634,Cake,2,3,6,"Credit Card",In-store,2023-07-11
+3424331,Cake,4,3,12.0,UNKNOWN,UNKNOWN,2023-01-18
+5072031,Cake,2,3,6.0,Cash,Takeaway,2023-03-23
+8687151,Salad,5,5,25.0,Cash,UNKNOWN,2023-06-10
+5265095,Coffee,1,2,2.0,ERROR,UNKNOWN,2023-06-23
+4108138,Coffee,5,2,10.0,Cash,UNKNOWN,2023-08-03
+1909796,Smoothie,2,4,8.0,UNKNOWN,Takeaway,2023-07-12
+1928241,Coffee,3,2,6.0,Cash,In-store,2023-04-30
+4283157,Salad,5,5,25.0,"Digital Wallet",In-store,2023-11-25
+8013032,Coffee,2,2,4.0,"Credit Card",UNKNOWN,2023-03-07
+8301424,Juice,2,3,6.0,UNKNOWN,ERROR,2023-06-27
+1093800,Sandwich,3,4,12.0,Cash,Takeaway,UNKNOWN
+1631695,Tea,2,1.5,3.0,UNKNOWN,In-store,2023-09-19
+1648671,Sandwich,3,4,12.0,Cash,Takeaway,2023-05-21
+4062737,Cake,3,3,9.0,Cash,In-store,2023-07-02
+9249507,Cookie,4,1,4.0,"Credit Card",In-store,2023-11-21
+4689500,Sandwich,4,4,16.0,UNKNOWN,UNKNOWN,2023-12-02
+8989148,Tea,2,1.5,3,UNKNOWN,UNKNOWN,2023-11-25
+8316826,Coffee,3,2,6.0,UNKNOWN,In-store,2023-04-17
+9836934,Cookie,3,1,3.0,"Digital Wallet",In-store,2023-03-13
+8005489,Cake,3,3,9.0,UNKNOWN,In-store,2023-08-12
+6463132,Cookie,5,1,5.0,"Credit Card",Takeaway,UNKNOWN
+3925836,Cookie,3,1,3.0,"Digital Wallet",In-store,2023-02-16
+3978874,Smoothie,5,4,20.0,"Credit Card",In-store,2023-03-13
+8955912,Sandwich,1,4,4.0,UNKNOWN,UNKNOWN,2023-11-07
+1136554,Smoothie,3,4,12.0,UNKNOWN,Takeaway,2023-03-26
+8007337,Cake,2,3,6.0,"Digital Wallet",Takeaway,2023-11-01
+8129834,Salad,1,5,5.0,Cash,UNKNOWN,2023-07-22
+5365809,Cake,3,3,9.0,Cash,In-store,2023-09-14
+6629480,Smoothie,5,4,20.0,"Credit Card",In-store,2023-02-28
+3833797,Coffee,4,2,8.0,UNKNOWN,In-store,2023-01-27
+2996519,Cake,5,3,15.0,Cash,UNKNOWN,2023-01-19
+8810894,Smoothie,1,4,4.0,UNKNOWN,UNKNOWN,2023-02-20
+7412722,Juice,4,3,12.0,Cash,In-store,2023-04-07
+3937509,Smoothie,2,4,8.0,UNKNOWN,In-store,2023-03-20
+6000201,Cookie,3,1,3.0,Cash,Takeaway,2023-02-16
+1714274,Cookie,4,1,4.0,UNKNOWN,In-store,2023-12-27
+6311602,Juice,3,3,9.0,"Credit Card",UNKNOWN,2023-05-15
+2950680,Coffee,2,2,4.0,"Credit Card",Takeaway,2023-12-10
+6749847,Cake,2,3,6.0,"Credit Card",UNKNOWN,2023-08-15
+2143187,Smoothie,1,4,4.0,UNKNOWN,In-store,2023-04-21
+4088917,Coffee,3,2,6.0,Cash,Takeaway,2023-02-04
+3779366,Cookie,1,1,1.0,"Digital Wallet",In-store,2023-04-15
+7724048,Smoothie,1,4,4.0,ERROR,In-store,2023-11-12
+2698591,Tea,5,1.5,7.5,UNKNOWN,UNKNOWN,2023-08-05
+3171373,Smoothie,3,4,12.0,"Credit Card",In-store,2023-05-10
+4129248,Sandwich,2,4,8.0,"Credit Card",UNKNOWN,ERROR
+6498163,Smoothie,5,4,20.0,UNKNOWN,In-store,2023-07-15
+3857960,Salad,4,5,20.0,Cash,In-store,2023-04-26
+9250710,Salad,1,5,5.0,Cash,In-store,2023-05-28
+7058377,Juice,1,3,3.0,UNKNOWN,Takeaway,2023-04-30
+6766492,Salad,1,5,5.0,UNKNOWN,ERROR,2023-01-14
+9879996,Coffee,4,2,8.0,"Digital Wallet",In-store,2023-03-01
+4291940,Cake,3,3,9.0,"Credit Card",In-store,2023-11-13
+7433461,Cookie,2,1,2.0,"Digital Wallet",UNKNOWN,2023-07-09
+4068262,Salad,2,5,10.0,"Credit Card",UNKNOWN,2023-05-13
+5761073,Cookie,1,1,1.0,Cash,In-store,UNKNOWN
+5047447,Salad,1,5,5.0,"Digital Wallet",Takeaway,2023-12-27
+6623508,Cookie,5,1,5.0,"Digital Wallet",Takeaway,2023-05-18
+8377564,Cake,5,3,15.0,UNKNOWN,In-store,2023-07-14
+7031118,Salad,1,5,5.0,"Credit Card",ERROR,2023-03-29
+2230167,Cake,4,3,12.0,"Digital Wallet",Takeaway,2023-09-22
+6446616,Tea,3,1.5,4.5,ERROR,UNKNOWN,2023-09-30
+1721827,Cake,4,3,12.0,"Digital Wallet",ERROR,2023-08-22
+6334895,Smoothie,1,4,4.0,"Credit Card",ERROR,2023-07-27
+4700144,Coffee,4,2,8.0,UNKNOWN,In-store,2023-12-21
+5526852,Sandwich,5,4,20,"Digital Wallet",In-store,2023-09-28
+8570890,Juice,4,3,12.0,UNKNOWN,UNKNOWN,2023-04-14
+3786188,Tea,3,1.5,4.5,"Credit Card",In-store,2023-10-20
+4530804,Coffee,4,2,8.0,UNKNOWN,UNKNOWN,2023-01-12
+9642066,Sandwich,3,4,12.0,"Credit Card",In-store,2023-08-31
+7328294,Juice,2,3,6.0,Cash,UNKNOWN,2023-07-07
+1908636,Tea,2,1.5,3.0,UNKNOWN,UNKNOWN,UNKNOWN
+5415901,Cake,2,3,6.0,"Digital Wallet",UNKNOWN,2023-10-21
+6616971,Juice,2,3,6.0,"Digital Wallet",Takeaway,2023-09-02
+7803615,Salad,3,5,15.0,Cash,In-store,2023-12-13
+7549542,Cookie,5,1,5.0,UNKNOWN,Takeaway,UNKNOWN
+3544789,Tea,4,1.5,6,UNKNOWN,In-store,2023-07-14
+1583597,Salad,1,5,5.0,Cash,In-store,2023-05-10
+8472308,Cookie,2,1,2.0,"Digital Wallet",Takeaway,2023-08-19
+1967565,Smoothie,5,4,20.0,"Credit Card",Takeaway,2023-03-31
+2029497,Sandwich,2,4,8.0,Cash,Takeaway,2023-01-06
+5003018,Cookie,4,1,4,"Digital Wallet",UNKNOWN,UNKNOWN
+7852990,Sandwich,5,4,20.0,"Digital Wallet",Takeaway,2023-07-10
+2534066,Salad,2,5,10.0,Cash,UNKNOWN,2023-10-13
+2059647,Tea,1,1.5,1.5,"Digital Wallet",In-store,2023-05-29
+2485183,Smoothie,5,4,20.0,Cash,In-store,2023-07-07
+7374846,Sandwich,1,4,4.0,"Credit Card",UNKNOWN,2023-05-29
+9401522,Sandwich,4,4,16.0,"Digital Wallet",In-store,2023-11-16
+8250651,Sandwich,4,4,16.0,"Digital Wallet",In-store,2023-03-13
+7191245,Cake,4,3,12.0,UNKNOWN,Takeaway,2023-05-22
+8982764,Cake,5,3,15.0,"Digital Wallet",Takeaway,2023-11-23
+1153869,Smoothie,5,4,20.0,"Credit Card",Takeaway,2023-11-03
+5043774,Sandwich,3,4,12.0,Cash,UNKNOWN,2023-06-08
+1746320,Salad,1,5,5.0,Cash,UNKNOWN,2023-11-14
+1077129,Cookie,1,1,1.0,UNKNOWN,In-store,2023-09-12
+5616583,Smoothie,1,4,4.0,UNKNOWN,UNKNOWN,2023-10-13
+2078474,Cookie,2,1,2.0,UNKNOWN,Takeaway,2023-11-03
+2130245,Smoothie,5,4,20.0,"Credit Card",UNKNOWN,2023-11-13
+9076216,Cake,1,3,3.0,Cash,UNKNOWN,2023-12-17
+6371987,Tea,5,1.5,7.5,UNKNOWN,Takeaway,2023-03-13
+2084377,Smoothie,1,4,4.0,"Credit Card",ERROR,2023-10-22
+8605813,Cookie,1,1,1.0,UNKNOWN,UNKNOWN,2023-06-30
+9755352,Sandwich,5,4,20.0,UNKNOWN,In-store,2023-05-13
+7550498,Juice,5,3,15.0,UNKNOWN,In-store,ERROR
+7557340,Tea,5,1.5,7.5,"Credit Card",In-store,2023-12-11
+1157817,Smoothie,1,4,4.0,"Digital Wallet",In-store,2023-04-25
+2020318,Tea,3,1.5,4.5,"Digital Wallet",In-store,2023-10-12
+8692094,Coffee,5,2,10.0,UNKNOWN,Takeaway,2023-08-30
+5307411,Cake,3,3,9,"Digital Wallet",Takeaway,2023-10-21
+9703120,Coffee,3,2,6.0,"Credit Card",UNKNOWN,2023-11-02
+1289133,Juice,1,3,3.0,Cash,UNKNOWN,2023-09-19
+2031459,Cake,3,3,9.0,Cash,Takeaway,2023-07-04
+1333682,Smoothie,1,4,4.0,"Digital Wallet",UNKNOWN,2023-01-28
+1623966,Tea,2,1.5,3.0,Cash,Takeaway,UNKNOWN
+4912930,Smoothie,3,4,12.0,"Credit Card",In-store,2023-02-26
+4942692,Coffee,2,2,4.0,UNKNOWN,Takeaway,2023-01-15
+3723007,Tea,3,1.5,4.5,"Digital Wallet",In-store,2023-05-18
+7922392,Sandwich,3,4,12.0,UNKNOWN,UNKNOWN,2023-05-03
+7498727,Salad,3,5,15.0,Cash,UNKNOWN,2023-11-06
+1222338,Cookie,1,1,1.0,UNKNOWN,In-store,2023-10-11
+6878866,Smoothie,3,4,12.0,"Credit Card",UNKNOWN,2023-02-25
+1260335,Cookie,4,1,4.0,"Digital Wallet",In-store,UNKNOWN
+9223242,Smoothie,2,4,8.0,UNKNOWN,UNKNOWN,2023-09-10
+6244211,Smoothie,2,4,8.0,UNKNOWN,UNKNOWN,2023-08-11
+4612864,Tea,3,1.5,4.5,UNKNOWN,UNKNOWN,2023-02-14
+3047598,Cookie,1,1,1.0,UNKNOWN,UNKNOWN,2023-09-06
+7496926,Sandwich,3,4,12.0,ERROR,In-store,2023-04-23
+1726858,Smoothie,3,4,12.0,Cash,In-store,UNKNOWN
+7559388,Salad,4,5,20.0,"Digital Wallet",Takeaway,2023-02-26
+8540499,Cookie,3,1,3.0,Cash,In-store,2023-01-22
+4225756,Cookie,3,1,3.0,UNKNOWN,In-store,2023-03-10
+6795640,Cookie,4,1,4.0,"Digital Wallet",Takeaway,2023-01-28
+6702428,Coffee,5,2,10.0,Cash,Takeaway,2023-08-11
+4639319,Coffee,5,2,10.0,Cash,UNKNOWN,2023-01-09
+5997803,Coffee,5,2,10.0,UNKNOWN,In-store,2023-12-03
+8319993,Juice,1,3,3.0,"Digital Wallet",UNKNOWN,2023-08-06
+8894157,Sandwich,4,4,16.0,"Credit Card",UNKNOWN,ERROR
+5523450,Salad,5,5,25.0,"Credit Card",Takeaway,2023-07-02
+7838964,Sandwich,3,4,12.0,"Credit Card",In-store,2023-06-15
+2773987,Smoothie,5,4,20.0,ERROR,UNKNOWN,2023-01-11
+8685737,Smoothie,2,4,8.0,UNKNOWN,In-store,2023-11-02
+1524626,Smoothie,2,4,8.0,"Digital Wallet",UNKNOWN,2023-12-29
+7275407,Smoothie,2,4,8.0,"Digital Wallet",In-store,2023-10-20
+2889622,Juice,4,3,12.0,"Credit Card",UNKNOWN,2023-11-01
+9472241,Salad,3,5,15.0,Cash,Takeaway,2023-06-30
+4473352,Cake,1,3,3.0,UNKNOWN,In-store,2023-11-16
+2814363,Tea,2,1.5,3.0,UNKNOWN,UNKNOWN,2023-07-02
+1846004,Juice,3,3,9.0,Cash,In-store,2023-05-21
+7140471,Cake,1,3,3.0,"Credit Card",UNKNOWN,2023-05-25
+3119542,Smoothie,1,4,4.0,"Credit Card",UNKNOWN,2023-10-31
+7773968,Sandwich,5,4,20.0,"Digital Wallet",Takeaway,2023-02-24
+9081088,Tea,2,1.5,3.0,Cash,Takeaway,2023-02-27
+8559167,Sandwich,5,4,20,UNKNOWN,Takeaway,2023-12-09
+1130191,Smoothie,2,4,8.0,Cash,In-store,2023-04-06
+5215451,Sandwich,5,4,20.0,"Digital Wallet",UNKNOWN,2023-11-02
+1040764,Coffee,3,2,6.0,Cash,Takeaway,2023-07-27
+5457133,Juice,5,3,15.0,ERROR,In-store,2023-03-03
+2100697,Coffee,3,2,6.0,"Digital Wallet",Takeaway,2023-09-19
+7676968,Smoothie,4,4,16.0,UNKNOWN,In-store,2023-02-21
+5726998,Cake,3,3,9.0,"Credit Card",UNKNOWN,2023-08-12
+4134594,Sandwich,3,4,12.0,"Digital Wallet",In-store,2023-09-27
+5079340,Cookie,4,1,4.0,Cash,In-store,2023-08-18
+1380601,Tea,4,1.5,6.0,"Digital Wallet",In-store,2023-03-11
+3959152,Juice,1,3,3.0,UNKNOWN,In-store,2023-05-21
+7776739,Tea,2,1.5,3.0,UNKNOWN,Takeaway,2023-02-23
+8703771,Cake,5,3,15.0,UNKNOWN,In-store,2023-05-12
+2052395,Smoothie,3,4,12.0,"Credit Card",In-store,2023-07-06
+8256593,Salad,2,5,10.0,"Digital Wallet",Takeaway,2023-08-09
+9271457,Cake,3,3,9.0,"Digital Wallet",In-store,2023-02-27
+5392603,Coffee,1,2,2.0,Cash,In-store,2023-05-14
+9263299,Cookie,2,1,2.0,"Credit Card",Takeaway,2023-10-08
+2301505,Cake,5,3,15.0,"Digital Wallet",UNKNOWN,2023-03-21
+5895177,Cake,5,3,15.0,UNKNOWN,UNKNOWN,2023-08-16
+8751516,Tea,3,1.5,4.5,Cash,Takeaway,UNKNOWN
+8147357,Tea,5,1.5,7.5,UNKNOWN,Takeaway,2023-04-20
+1436343,Cookie,1,1,1.0,"Credit Card",In-store,2023-11-26
+2214698,Salad,4,5,20.0,"Credit Card",UNKNOWN,2023-10-10
+7480234,Salad,1,5,5.0,Cash,Takeaway,2023-05-10
+3093219,Juice,5,3,15,Cash,UNKNOWN,2023-01-28
+3665733,Coffee,5,2,10.0,Cash,Takeaway,UNKNOWN
+4010658,Tea,5,1.5,7.5,UNKNOWN,UNKNOWN,2023-09-26
+1454467,Juice,3,3,9.0,Cash,In-store,2023-03-15
+2598728,Cake,2,3,6.0,"Credit Card",UNKNOWN,2023-01-13
+3390285,Tea,2,1.5,3.0,UNKNOWN,Takeaway,2023-02-06
+8224079,Cookie,5,1,5.0,Cash,In-store,2023-10-16
+1916339,Cake,1,3,3.0,Cash,In-store,2023-07-15
+8611035,Sandwich,5,4,20.0,"Digital Wallet",In-store,2023-05-28
+3595735,Tea,4,1.5,6.0,"Digital Wallet",Takeaway,2023-03-26
+4884822,Cookie,1,1,1.0,"Credit Card",UNKNOWN,2023-04-23
+3668051,Cake,1,3,3.0,UNKNOWN,UNKNOWN,2023-11-17
+6169633,Salad,4,5,20.0,"Credit Card",Takeaway,2023-12-20
+3884811,Coffee,4,2,8.0,"Credit Card",UNKNOWN,2023-06-10
+4518102,Tea,5,1.5,7.5,"Credit Card",In-store,2023-02-08
+5939055,Coffee,3,2,6,ERROR,Takeaway,2023-10-21
+8158496,Tea,4,1.5,6.0,Cash,UNKNOWN,2023-06-19
+2726848,Cake,5,3,15,"Credit Card",UNKNOWN,2023-09-11
+3666858,Cake,4,3,12.0,"Credit Card",In-store,2023-12-27
+5499915,Cookie,2,1,2.0,"Digital Wallet",Takeaway,2023-02-01
+1564754,Salad,3,5,15.0,"Digital Wallet",In-store,2023-03-14
+1824506,Cake,1,3,3.0,Cash,In-store,2023-03-02
+3229758,Coffee,4,2,8.0,Cash,Takeaway,UNKNOWN
+3677592,Sandwich,2,4,8.0,Cash,UNKNOWN,2023-05-29
+1002457,Cookie,5,1,5.0,"Digital Wallet",Takeaway,2023-09-29
+8056263,Smoothie,5,4,20.0,UNKNOWN,In-store,2023-04-20
+4732351,Sandwich,1,4,4.0,"Digital Wallet",In-store,2023-04-22
+8049191,Cake,3,3,9.0,"Credit Card",ERROR,2023-07-31
+4980036,Cake,2,3,6.0,Cash,Takeaway,2023-01-05
+3022839,Coffee,5,2,10.0,"Digital Wallet",Takeaway,2023-08-25
+7701070,Coffee,5,2,10.0,"Credit Card",Takeaway,2023-07-28
+8048037,Sandwich,2,4,8.0,"Digital Wallet",Takeaway,2023-03-31
+4619029,Sandwich,3,4,12.0,"Credit Card",In-store,UNKNOWN
+4444463,Cake,4,3,12.0,ERROR,UNKNOWN,2023-05-16
+1887522,Sandwich,4,4,16.0,Cash,In-store,2023-02-20
+6908953,Tea,1,1.5,1.5,UNKNOWN,In-store,2023-12-08
+4759769,Sandwich,1,4,4.0,UNKNOWN,In-store,2023-08-03
+2254479,Tea,2,1.5,3.0,UNKNOWN,Takeaway,2023-08-03
+7555408,Salad,2,5,10.0,UNKNOWN,In-store,2023-06-06
+6857943,Cake,5,3,15.0,UNKNOWN,Takeaway,2023-01-08
+9552845,Sandwich,3,4,12.0,Cash,ERROR,2023-02-18
+6769465,Juice,5,3,15.0,"Digital Wallet",In-store,2023-06-13
+3656762,Sandwich,2,4,8.0,UNKNOWN,Takeaway,2023-07-31
+4980282,Cake,1,3,3.0,"Digital Wallet",In-store,2023-10-22
+2508476,Smoothie,5,4,20.0,Cash,ERROR,2023-04-14
+8209125,Cookie,3,1,3.0,"Credit Card",Takeaway,2023-01-30
+1751164,Salad,2,5,10.0,Cash,UNKNOWN,2023-09-11
+3730415,Cake,4,3,12.0,"Credit Card",Takeaway,2023-04-09
+4134253,Tea,4,1.5,6.0,Cash,In-store,2023-10-07
+3256497,Coffee,2,2,4.0,Cash,UNKNOWN,2023-08-20
+8763180,Smoothie,1,4,4,UNKNOWN,Takeaway,2023-04-16
+3219175,Sandwich,5,4,20.0,UNKNOWN,ERROR,2023-02-23
+6234872,Smoothie,1,4,4,UNKNOWN,ERROR,2023-12-23
+7919440,Tea,4,1.5,6.0,Cash,UNKNOWN,2023-08-19
+7558641,Coffee,1,2,2.0,"Digital Wallet",In-store,2023-12-22
+9940220,Juice,2,3,6.0,UNKNOWN,Takeaway,2023-03-05
+8805984,Juice,2,3,6.0,"Credit Card",Takeaway,UNKNOWN
+2130483,Tea,4,1.5,6.0,Cash,UNKNOWN,2023-11-25
+1972584,Sandwich,5,4,20.0,"Digital Wallet",UNKNOWN,2023-07-10
+3150792,Coffee,5,2,10,Cash,UNKNOWN,2023-07-02
+2980008,Cake,3,3,9.0,"Digital Wallet",UNKNOWN,2023-11-17
+5511805,Juice,1,3,3,UNKNOWN,Takeaway,2023-06-03
+7292548,Cookie,4,1,4.0,"Digital Wallet",UNKNOWN,2023-03-24
+2169664,Smoothie,1,4,4.0,Cash,UNKNOWN,2023-07-23
+3234877,Coffee,4,2,8.0,Cash,Takeaway,2023-07-29
+6368719,Cake,4,3,12.0,"Credit Card",Takeaway,2023-01-03
+8852585,Sandwich,4,4,16.0,"Credit Card",Takeaway,2023-01-05
+9201010,Salad,1,5,5.0,"Credit Card",Takeaway,2023-03-15
+7817014,Cookie,1,1,1.0,"Digital Wallet",Takeaway,ERROR
+2873990,Sandwich,2,4,8.0,UNKNOWN,UNKNOWN,2023-03-12
+3088796,Sandwich,4,4,16.0,"Credit Card",UNKNOWN,2023-08-16
+3414935,Coffee,4,2,8.0,UNKNOWN,In-store,2023-08-03
+3607652,Salad,4,5,20.0,"Digital Wallet",In-store,2023-06-05
+8502094,Juice,5,3,15.0,"Credit Card",In-store,2023-03-21
+9068244,Sandwich,5,4,20.0,"Digital Wallet",Takeaway,2023-10-19
+2696664,Cookie,5,1,5.0,UNKNOWN,In-store,2023-01-07
+7633490,Cookie,1,1,1.0,Cash,Takeaway,2023-10-27
+9292230,Tea,4,1.5,6.0,"Credit Card",In-store,2023-07-14
+5081978,Cake,1,3,3.0,UNKNOWN,In-store,2023-10-19
+7314409,Smoothie,5,4,20.0,"Credit Card",UNKNOWN,2023-08-06
+8006668,Tea,4,1.5,6.0,"Credit Card",In-store,2023-12-22
+4369043,Juice,2,3,6.0,Cash,UNKNOWN,2023-03-25
+3560062,Cookie,1,1,1.0,Cash,In-store,2023-03-20
+4769307,Tea,5,1.5,7.5,"Digital Wallet",UNKNOWN,2023-12-24
+7270652,Sandwich,1,4,4.0,UNKNOWN,Takeaway,2023-05-14
+4991815,Cake,5,3,15.0,Cash,UNKNOWN,2023-11-06
+6360132,Sandwich,4,4,16.0,Cash,Takeaway,2023-09-16
+8199829,Cake,2,3,6.0,"Credit Card",UNKNOWN,2023-07-29
+7864939,Sandwich,3,4,12.0,"Digital Wallet",In-store,2023-08-19
+2640701,Salad,3,5,15.0,UNKNOWN,Takeaway,2023-05-07
+3740963,Salad,2,5,10.0,"Digital Wallet",Takeaway,2023-01-22
+8101633,Sandwich,2,4,8.0,UNKNOWN,In-store,2023-08-10
+6063966,Juice,2,3,6.0,"Digital Wallet",Takeaway,2023-10-24
+3779640,Tea,1,1.5,1.5,"Digital Wallet",In-store,2023-05-16
+8278833,Cake,3,3,9.0,UNKNOWN,UNKNOWN,2023-02-26
+8778598,Sandwich,3,4,12.0,Cash,UNKNOWN,2023-09-02
+7550103,Cake,5,3,15.0,UNKNOWN,Takeaway,2023-01-19
+3664656,Cookie,5,1,5.0,UNKNOWN,Takeaway,2023-08-13
+7296560,Juice,2,3,6.0,UNKNOWN,UNKNOWN,2023-10-20
+8136881,Salad,3,5,15.0,Cash,In-store,2023-08-28
+3981449,Smoothie,2,4,8.0,Cash,In-store,2023-06-21
+2641386,Sandwich,3,4,12.0,UNKNOWN,Takeaway,2023-03-25
+1485417,Cookie,3,1,3.0,Cash,In-store,ERROR
+4033802,Tea,3,1.5,4.5,Cash,Takeaway,2023-03-02
+9762324,Cake,2,3,6.0,Cash,In-store,ERROR
+1628509,Smoothie,5,4,20.0,UNKNOWN,Takeaway,UNKNOWN
+4183823,Sandwich,4,4,16.0,"Credit Card",ERROR,2023-03-28
+4696439,Cookie,1,1,1.0,Cash,In-store,2023-05-27
+8826983,Smoothie,5,4,20.0,Cash,In-store,2023-01-14
+8267034,Juice,2,3,6.0,UNKNOWN,Takeaway,2023-06-20
+1959334,Coffee,3,2,6.0,UNKNOWN,UNKNOWN,2023-06-29
+6842808,Tea,2,1.5,3.0,UNKNOWN,UNKNOWN,2023-10-22
+2947822,Cake,4,3,12.0,"Digital Wallet",In-store,2023-10-27
+2148838,Sandwich,2,4,8.0,"Credit Card",UNKNOWN,2023-08-05
+1330506,Cookie,3,1,3.0,"Digital Wallet",UNKNOWN,2023-11-10
+5898743,Juice,4,3,12,UNKNOWN,Takeaway,UNKNOWN
+8957369,Salad,4,5,20.0,"Digital Wallet",UNKNOWN,2023-10-18
+9340653,Smoothie,1,4,4.0,"Digital Wallet",UNKNOWN,2023-10-19
+2493446,Sandwich,1,4,4.0,Cash,Takeaway,2023-05-19
+4538354,Juice,3,3,9.0,Cash,Takeaway,2023-04-21
+7098730,Cake,2,3,6.0,"Digital Wallet",UNKNOWN,2023-11-10
+2690314,Tea,5,1.5,7.5,Cash,In-store,2023-08-10
+8171171,Coffee,1,2,2.0,UNKNOWN,Takeaway,2023-05-13
+2968827,Salad,5,5,25.0,"Digital Wallet",Takeaway,2023-09-14
+1387401,Cookie,4,1,4.0,Cash,In-store,2023-10-19
+6727029,Tea,2,1.5,3.0,UNKNOWN,Takeaway,2023-07-07
+3917193,Juice,5,3,15.0,"Credit Card",Takeaway,2023-11-17
+8518516,Sandwich,4,4,16.0,UNKNOWN,UNKNOWN,2023-08-16
+2062854,Sandwich,4,4,16.0,"Digital Wallet",Takeaway,2023-12-01
+4075863,Smoothie,3,4,12,Cash,Takeaway,2023-05-21
+5624860,Tea,3,1.5,4.5,"Credit Card",Takeaway,2023-08-22
+6669417,Salad,5,5,25.0,UNKNOWN,Takeaway,2023-01-03
+7837381,Sandwich,5,4,20.0,UNKNOWN,Takeaway,2023-07-17
+1725926,Juice,5,3,15.0,"Credit Card",UNKNOWN,2023-12-23
+3403173,Salad,1,5,5.0,UNKNOWN,ERROR,2023-06-24
+3381656,Cake,5,3,15.0,Cash,Takeaway,2023-10-26
+9956154,Cake,4,3,12.0,UNKNOWN,In-store,2023-05-11
+6250692,Sandwich,1,4,4.0,UNKNOWN,UNKNOWN,2023-09-01
+1183995,Salad,5,5,25.0,"Digital Wallet",Takeaway,2023-03-28
+9452225,Tea,1,1.5,1.5,ERROR,In-store,2023-02-26
+9113574,Coffee,4,2,8.0,UNKNOWN,In-store,2023-01-04
+5813015,Cookie,5,1,5.0,"Digital Wallet",UNKNOWN,2023-10-07
+3213035,Smoothie,4,4,16.0,UNKNOWN,In-store,2023-05-21
+7578769,Sandwich,5,4,20.0,"Digital Wallet",Takeaway,2023-01-30
+3515664,Coffee,2,2,4.0,Cash,Takeaway,2023-09-25
+6209258,Juice,1,3,3.0,"Credit Card",UNKNOWN,2023-03-06
+8594004,Cookie,4,1,4.0,"Credit Card",UNKNOWN,2023-02-25
+6422433,Sandwich,5,4,20.0,"Digital Wallet",Takeaway,2023-05-09
+2865033,Coffee,2,2,4,Cash,UNKNOWN,2023-08-03
+5547519,Salad,4,5,20.0,UNKNOWN,In-store,2023-05-13
+2392263,Salad,5,5,25.0,UNKNOWN,Takeaway,2023-02-08
+3810451,Juice,4,3,12.0,UNKNOWN,ERROR,ERROR
+4669664,Cookie,1,1,1.0,"Digital Wallet",In-store,2023-12-21
+9470612,Cake,3,3,9.0,UNKNOWN,Takeaway,2023-04-30
+8320245,Tea,3,1.5,4.5,UNKNOWN,Takeaway,2023-04-09
+5904646,Smoothie,1,4,4.0,ERROR,ERROR,2023-03-26
+4498526,Smoothie,3,4,12.0,"Credit Card",UNKNOWN,2023-06-20
+2744907,Salad,2,5,10.0,"Digital Wallet",UNKNOWN,UNKNOWN
+5209585,Tea,2,1.5,3.0,UNKNOWN,Takeaway,2023-08-12
+2213556,Coffee,1,2,2.0,Cash,In-store,2023-05-30
+3826038,Salad,1,5,5.0,Cash,Takeaway,2023-10-20
+7596587,Tea,3,1.5,4.5,"Credit Card",UNKNOWN,2023-02-08
+7380277,Sandwich,4,4,16.0,"Digital Wallet",Takeaway,2023-04-24
+1353479,Smoothie,4,4,16.0,Cash,UNKNOWN,2023-09-20
+6054137,Juice,3,3,9.0,UNKNOWN,In-store,2023-05-09
+9266394,Cookie,2,1,2.0,"Credit Card",In-store,2023-07-12
+8298311,Tea,2,1.5,3.0,"Digital Wallet",In-store,UNKNOWN
+6744866,Tea,4,1.5,6.0,UNKNOWN,Takeaway,UNKNOWN
+6152588,Coffee,3,2,6.0,Cash,Takeaway,2023-11-21
+2156206,Smoothie,2,4,8.0,UNKNOWN,UNKNOWN,2023-02-04
+3142258,Salad,4,5,20,UNKNOWN,Takeaway,2023-11-03
+5739806,Smoothie,3,4,12.0,"Credit Card",In-store,2023-09-18
+9228978,Coffee,5,2,10.0,"Digital Wallet",In-store,2023-02-09
+5897205,Cookie,1,1,1.0,UNKNOWN,In-store,2023-06-10
+1556652,Cake,5,3,15.0,"Digital Wallet",ERROR,2023-04-06
+8608765,Salad,4,5,20.0,"Credit Card",UNKNOWN,2023-09-02
+8764825,Smoothie,3,4,12.0,Cash,UNKNOWN,UNKNOWN
+1124753,Salad,4,5,20.0,"Digital Wallet",In-store,2023-10-19
+9410981,Cookie,2,1,2.0,UNKNOWN,Takeaway,2023-02-07
+7611120,Juice,2,3,6.0,Cash,Takeaway,2023-03-30
+2106959,Sandwich,5,4,20.0,"Digital Wallet",UNKNOWN,2023-09-05
+2237115,Coffee,1,2,2.0,UNKNOWN,Takeaway,2023-01-13
+6836137,Cake,4,3,12.0,UNKNOWN,In-store,2023-08-30
+6316959,Tea,2,1.5,3.0,Cash,In-store,2023-11-10
+2265984,Cookie,5,1,5.0,"Credit Card",Takeaway,2023-10-18
+6352917,Salad,5,5,25,Cash,UNKNOWN,2023-05-05
+9564123,Cake,4,3,12.0,"Credit Card",UNKNOWN,2023-03-23
+3946544,Cake,5,3,15.0,"Credit Card",UNKNOWN,UNKNOWN
+1123138,Salad,1,5,5.0,Cash,In-store,2023-02-10
+9212503,Salad,2,5,10.0,"Digital Wallet",Takeaway,2023-10-08
+6868049,Juice,5,3,15.0,"Digital Wallet",UNKNOWN,UNKNOWN
+2806243,Salad,4,5,20.0,"Digital Wallet",Takeaway,2023-01-14
+9759896,Tea,4,1.5,6.0,UNKNOWN,UNKNOWN,2023-12-02
+7560807,Salad,2,5,10.0,"Credit Card",UNKNOWN,2023-04-16
+3286932,Cookie,1,1,1.0,"Digital Wallet",Takeaway,2023-07-11
+3481470,Salad,4,5,20.0,"Credit Card",In-store,2023-12-24
+3469469,Cookie,1,1,1.0,"Digital Wallet",In-store,2023-10-25
+3179966,Tea,2,1.5,3.0,"Digital Wallet",UNKNOWN,2023-05-27
+3629351,Cake,1,3,3.0,"Digital Wallet",UNKNOWN,2023-07-21
+3142836,Cake,2,3,6.0,Cash,UNKNOWN,2023-11-01
+4998786,Cake,5,3,15.0,"Credit Card",Takeaway,2023-10-25
+6904590,Coffee,4,2,8.0,"Credit Card",UNKNOWN,2023-02-19
+2126408,Cookie,3,1,3.0,Cash,Takeaway,2023-10-19
+8664315,Salad,2,5,10.0,Cash,UNKNOWN,2023-08-14
+8958593,Juice,5,3,15.0,"Digital Wallet",In-store,2023-07-08
+2383598,Sandwich,2,4,8.0,"Digital Wallet",In-store,2023-09-19
+2211685,Smoothie,1,4,4.0,"Credit Card",In-store,2023-06-06
+1503602,Tea,5,1.5,7.5,"Digital Wallet",UNKNOWN,2023-12-16
+8716752,Juice,1,3,3.0,UNKNOWN,In-store,2023-12-05
+5933480,Sandwich,3,4,12.0,"Digital Wallet",In-store,2023-09-04
+4364091,Smoothie,1,4,4.0,ERROR,Takeaway,2023-04-14
+6721531,Tea,4,1.5,6.0,UNKNOWN,In-store,2023-03-06
+5447508,Sandwich,3,4,12.0,"Digital Wallet",Takeaway,2023-06-28
+5686113,Sandwich,5,4,20.0,"Digital Wallet",In-store,2023-09-09
+9239779,Salad,1,5,5.0,Cash,UNKNOWN,2023-01-09
+9265319,Salad,3,5,15.0,Cash,UNKNOWN,2023-11-15
+9265313,Cake,3,3,9.0,UNKNOWN,In-store,2023-10-01
+3397609,Smoothie,2,4,8.0,"Digital Wallet",In-store,2023-07-22
+9347203,Sandwich,5,4,20.0,Cash,In-store,2023-04-15
+2132186,Salad,1,5,5.0,"Credit Card",UNKNOWN,2023-02-01
+3383926,Cake,3,3,9.0,Cash,Takeaway,2023-07-08
+6905718,Salad,5,5,25.0,"Credit Card",In-store,2023-02-20
+3130548,Cookie,4,1,4.0,UNKNOWN,Takeaway,2023-08-21
+7993951,Tea,2,1.5,3.0,"Digital Wallet",Takeaway,2023-12-14
+4876440,Cookie,3,1,3.0,UNKNOWN,Takeaway,2023-07-01
+9323513,Cake,3,3,9.0,UNKNOWN,Takeaway,2023-05-04
+9097641,Cake,4,3,12.0,Cash,Takeaway,2023-12-16
+1775884,Juice,4,3,12.0,Cash,UNKNOWN,2023-10-08
+8536115,Cake,1,3,3.0,"Credit Card",Takeaway,2023-07-11
+8032010,Tea,1,1.5,1.5,Cash,UNKNOWN,2023-06-14
+2915281,Cookie,1,1,1.0,"Digital Wallet",In-store,2023-07-01
+3468006,Smoothie,3,4,12.0,"Credit Card",Takeaway,2023-07-28
+7604541,Juice,4,3,12.0,"Credit Card",In-store,2023-04-16
+9238689,Cake,1,3,3.0,"Digital Wallet",In-store,2023-03-09
+2601689,Salad,4,5,20.0,"Digital Wallet",Takeaway,2023-01-14
+6428182,Cake,5,3,15.0,Cash,In-store,2023-11-10
+6830557,Coffee,3,2,6.0,"Digital Wallet",Takeaway,2023-11-08
+6371264,Smoothie,5,4,20.0,Cash,Takeaway,2023-02-27
+9236713,Cookie,5,1,5.0,Cash,In-store,2023-09-13
+4690833,Cake,1,3,3.0,Cash,Takeaway,2023-05-23
+7946489,Juice,1,3,3.0,Cash,Takeaway,2023-09-11
+8661288,Salad,2,5,10.0,"Digital Wallet",Takeaway,2023-01-27
+7187207,Coffee,5,2,10.0,Cash,UNKNOWN,2023-02-18
+2866147,Juice,2,3,6.0,UNKNOWN,Takeaway,2023-08-28
+7444541,Salad,2,5,10.0,Cash,UNKNOWN,2023-11-29
+6046604,Cookie,5,1,5.0,"Credit Card",UNKNOWN,2023-06-29
+6111710,Salad,3,5,15.0,"Credit Card",In-store,2023-06-18
+1773873,Salad,5,5,25.0,"Credit Card",Takeaway,2023-06-10
+7688650,Tea,2,1.5,3.0,UNKNOWN,UNKNOWN,2023-10-26
+4570711,Sandwich,4,4,16.0,"Credit Card",In-store,2023-12-11
+5242469,Coffee,4,2,8.0,"Credit Card",Takeaway,2023-04-01
+2977414,Cake,4,3,12,UNKNOWN,UNKNOWN,2023-06-09
+8938144,Coffee,2,2,4.0,"Credit Card",UNKNOWN,2023-01-27
+1655100,Cake,4,3,12.0,"Credit Card",Takeaway,2023-12-20
+1526864,Smoothie,3,4,12.0,"Digital Wallet",In-store,2023-01-27
+1279428,Salad,1,5,5.0,"Digital Wallet",UNKNOWN,2023-03-02
+9866728,Juice,1,3,3.0,Cash,In-store,2023-10-26
+1706201,Coffee,3,2,6.0,"Credit Card",In-store,2023-08-23
+2498488,Smoothie,2,4,8.0,"Digital Wallet",Takeaway,2023-12-06
+5387067,Salad,3,5,15.0,"Credit Card",UNKNOWN,2023-06-11
+4431179,Sandwich,3,4,12.0,"Digital Wallet",Takeaway,2023-08-13
+5051924,Tea,5,1.5,7.5,UNKNOWN,UNKNOWN,2023-05-23
+9033890,Salad,1,5,5.0,UNKNOWN,Takeaway,2023-08-05
+1777959,Tea,5,1.5,7.5,UNKNOWN,Takeaway,2023-10-18
+3574059,Cake,1,3,3.0,UNKNOWN,UNKNOWN,2023-01-18
+2108894,Sandwich,4,4,16.0,"Credit Card",In-store,2023-10-30
+6347472,Tea,1,1.5,1.5,"Digital Wallet",In-store,2023-03-22
+8699110,Salad,3,5,15.0,UNKNOWN,Takeaway,2023-10-11
+7188412,Sandwich,1,4,4.0,UNKNOWN,Takeaway,2023-08-08
+8345723,Sandwich,1,4,4.0,"Digital Wallet",Takeaway,2023-08-27
+4476634,Tea,2,1.5,3.0,"Credit Card",UNKNOWN,2023-06-16
+1932897,Cookie,1,1,1.0,ERROR,Takeaway,UNKNOWN
+2178964,Tea,4,1.5,6.0,Cash,Takeaway,2023-12-25
+7889745,Sandwich,4,4,16.0,UNKNOWN,UNKNOWN,2023-01-25
+7020671,Coffee,1,2,2.0,UNKNOWN,ERROR,2023-09-01
+6581437,Coffee,5,2,10.0,"Digital Wallet",Takeaway,2023-10-23
+1347965,Cookie,5,1,5.0,UNKNOWN,In-store,2023-02-19
+6128621,Salad,3,5,15.0,"Digital Wallet",In-store,2023-11-10
+5758199,Coffee,4,2,8.0,"Credit Card",UNKNOWN,2023-06-11
+3145041,Tea,5,1.5,7.5,UNKNOWN,UNKNOWN,2023-09-23
+9960577,Sandwich,1,4,4.0,Cash,UNKNOWN,2023-06-24
+1349738,Sandwich,3,4,12,Cash,ERROR,2023-03-26
+4512118,Coffee,2,2,4.0,"Digital Wallet",Takeaway,2023-04-20
+8167279,Salad,5,5,25.0,UNKNOWN,In-store,UNKNOWN
+8114990,Juice,1,3,3.0,UNKNOWN,UNKNOWN,2023-02-27
+4961655,Juice,5,3,15.0,Cash,Takeaway,2023-05-06
+5595352,Juice,1,3,3.0,Cash,In-store,2023-02-20
+2070818,Smoothie,5,4,20.0,UNKNOWN,Takeaway,2023-06-05
+2004851,Salad,5,5,25.0,"Credit Card",UNKNOWN,UNKNOWN
+1869814,Tea,1,1.5,1.5,"Digital Wallet",Takeaway,2023-05-24
+6910915,Tea,4,1.5,6.0,"Digital Wallet",Takeaway,2023-05-06
+3183527,Coffee,3,2,6.0,"Digital Wallet",UNKNOWN,2023-10-26
+6916047,Coffee,2,2,4,"Digital Wallet",In-store,ERROR
+2611960,Sandwich,3,4,12.0,"Credit Card",UNKNOWN,2023-09-11
+7923140,Coffee,2,2,4.0,"Digital Wallet",UNKNOWN,2023-04-02
+5229169,Juice,2,3,6.0,"Credit Card",Takeaway,2023-09-08
+1018880,Smoothie,5,4,20.0,"Digital Wallet",UNKNOWN,2023-07-15
+9409728,Tea,2,1.5,3.0,UNKNOWN,In-store,2023-03-06
+5576265,Smoothie,4,4,16.0,"Credit Card",Takeaway,2023-04-08
+5098938,Tea,5,1.5,7.5,UNKNOWN,UNKNOWN,2023-05-06
+6119823,Tea,2,1.5,3.0,UNKNOWN,Takeaway,2023-06-13
+5408625,Cookie,5,1,5.0,Cash,ERROR,2023-08-14
+5969754,Tea,4,1.5,6.0,UNKNOWN,Takeaway,2023-01-29
+5740553,Salad,5,5,25.0,UNKNOWN,In-store,2023-08-29
+4809497,Tea,4,1.5,6.0,Cash,In-store,UNKNOWN
+1046394,Smoothie,1,4,4.0,Cash,In-store,2023-04-29
+2269396,Coffee,3,2,6.0,"Digital Wallet",In-store,2023-10-26
+9263967,Cookie,3,1,3.0,"Credit Card",In-store,2023-09-14
+6540946,Juice,4,3,12.0,"Digital Wallet",UNKNOWN,2023-10-08
+2914088,Salad,5,5,25.0,Cash,In-store,2023-03-22
+6571898,Juice,3,3,9.0,"Digital Wallet",Takeaway,2023-02-02
+4498370,Smoothie,4,4,16.0,ERROR,UNKNOWN,2023-07-24
+2108486,Juice,4,3,12.0,"Digital Wallet",Takeaway,2023-12-28
+5228270,Juice,3,3,9.0,UNKNOWN,Takeaway,2023-04-12
+4387303,Cookie,1,1,1.0,UNKNOWN,UNKNOWN,2023-06-27
+4637016,Salad,3,5,15.0,"Credit Card",In-store,UNKNOWN
+9587884,Tea,2,1.5,3.0,UNKNOWN,UNKNOWN,2023-01-05
+4625910,Juice,1,3,3.0,UNKNOWN,UNKNOWN,2023-01-17
+8250731,Cookie,2,1,2.0,Cash,UNKNOWN,2023-08-24
+3605929,Smoothie,2,4,8.0,"Credit Card",UNKNOWN,2023-04-26
+4953450,Cookie,4,1,4,ERROR,In-store,2023-03-10
+5315441,Smoothie,5,4,20.0,"Digital Wallet",In-store,2023-10-31
+9196322,Cookie,4,1,4.0,"Digital Wallet",In-store,2023-08-12
+4009547,Juice,4,3,12.0,"Credit Card",UNKNOWN,2023-05-13
+2109416,Sandwich,1,4,4.0,UNKNOWN,In-store,2023-09-21
+1063366,Juice,3,3,9.0,UNKNOWN,UNKNOWN,2023-03-20
+9738758,Coffee,1,2,2,Cash,In-store,2023-12-31
+7838465,Sandwich,3,4,12.0,"Credit Card",Takeaway,2023-06-15
+2447261,Cookie,3,1,3.0,"Credit Card",Takeaway,2023-10-15
+1460963,Coffee,3,2,6.0,Cash,In-store,2023-02-10
+1713128,Smoothie,3,4,12.0,"Credit Card",UNKNOWN,2023-05-01
+2840323,Tea,4,1.5,6.0,"Credit Card",ERROR,2023-05-07
+6691767,Salad,2,5,10.0,Cash,Takeaway,2023-02-05
+7280191,Coffee,3,2,6.0,ERROR,Takeaway,2023-08-23
+6932070,Tea,4,1.5,6.0,"Credit Card",In-store,2023-06-10
+2815335,Juice,5,3,15.0,Cash,UNKNOWN,2023-03-30
+4916272,Tea,3,1.5,4.5,ERROR,UNKNOWN,2023-03-03
+5489408,Cookie,1,1,1.0,UNKNOWN,In-store,2023-05-02
+4640977,Cookie,3,1,3.0,"Credit Card",In-store,2023-02-11
+3172751,Juice,5,3,15.0,"Credit Card",UNKNOWN,ERROR
+7896721,Cake,3,3,9.0,"Credit Card",Takeaway,2023-04-22
+8973563,Coffee,1,2,2.0,UNKNOWN,UNKNOWN,2023-10-08
+4827371,Salad,2,5,10.0,UNKNOWN,Takeaway,2023-06-20
+1559313,Smoothie,2,4,8.0,"Credit Card",UNKNOWN,2023-12-02
+7384923,Sandwich,2,4,8,UNKNOWN,Takeaway,2023-01-24
+7906197,Sandwich,5,4,20.0,"Credit Card",In-store,2023-01-02
+9103318,Sandwich,2,4,8.0,UNKNOWN,ERROR,2023-11-13
+8066743,Tea,3,1.5,4.5,Cash,Takeaway,2023-11-13
+9840274,Sandwich,5,4,20.0,UNKNOWN,Takeaway,2023-02-25
+4912458,Cake,4,3,12.0,ERROR,Takeaway,2023-06-12
+7982985,Cookie,1,1,1.0,"Credit Card",UNKNOWN,2023-01-27
+2855581,Coffee,4,2,8.0,"Credit Card",UNKNOWN,2023-10-23
+7585348,Cake,3,3,9.0,"Credit Card",Takeaway,2023-03-16
+4005014,Sandwich,1,4,4.0,"Digital Wallet",Takeaway,2023-07-10
+3106215,Smoothie,3,4,12,ERROR,Takeaway,2023-04-15
+4478185,Cake,2,3,6.0,Cash,In-store,2023-08-25
+3461209,Juice,4,3,12.0,"Credit Card",In-store,2023-04-26
+9498325,Salad,1,5,5.0,UNKNOWN,UNKNOWN,2023-04-04
+1026827,Cookie,4,1,4.0,"Digital Wallet",In-store,2023-01-02
+7269513,Salad,3,5,15.0,Cash,UNKNOWN,2023-05-12
+5134545,Tea,5,1.5,7.5,"Digital Wallet",UNKNOWN,2023-10-17
+7997144,Juice,4,3,12.0,"Credit Card",UNKNOWN,2023-02-25
+4339682,Salad,5,5,25.0,UNKNOWN,In-store,2023-03-04
+3363831,Juice,3,3,9.0,"Digital Wallet",UNKNOWN,2023-05-10
+5369555,Juice,4,3,12.0,Cash,Takeaway,2023-02-24
+6208034,Cake,1,3,3.0,"Digital Wallet",UNKNOWN,2023-08-29
+8187656,Tea,4,1.5,6.0,"Credit Card",Takeaway,2023-05-01
+6463415,Coffee,3,2,6.0,"Digital Wallet",In-store,2023-04-12
+1461895,Juice,5,3,15.0,ERROR,UNKNOWN,2023-06-17
+3197752,Smoothie,2,4,8.0,UNKNOWN,UNKNOWN,2023-03-10
+3112175,Coffee,4,2,8.0,Cash,UNKNOWN,2023-03-16
+6439579,Tea,5,1.5,7.5,"Credit Card",UNKNOWN,2023-03-23
+5590805,Cake,1,3,3.0,UNKNOWN,Takeaway,2023-01-25
+4634772,Juice,3,3,9.0,"Credit Card",In-store,2023-01-12
+3519066,Cake,1,3,3.0,UNKNOWN,Takeaway,2023-11-08
+8034156,Sandwich,1,4,4.0,Cash,In-store,2023-07-22
+2163229,Cookie,4,1,4.0,Cash,Takeaway,2023-12-21
+4109764,Juice,3,3,9,"Credit Card",UNKNOWN,2023-07-12
+1343750,Cookie,2,1,2.0,"Digital Wallet",Takeaway,2023-02-15
+6387964,Tea,5,1.5,7.5,"Digital Wallet",UNKNOWN,2023-08-07
+2743397,Cake,2,3,6.0,"Digital Wallet",UNKNOWN,2023-10-03
+8022689,Tea,1,1.5,1.5,Cash,Takeaway,2023-06-15
+3547825,Cookie,3,1,3.0,UNKNOWN,Takeaway,2023-09-04
+9101792,Coffee,5,2,10.0,Cash,UNKNOWN,2023-06-13
+8503406,Smoothie,2,4,8.0,"Digital Wallet",UNKNOWN,2023-02-15
+1992966,Smoothie,5,4,20.0,UNKNOWN,In-store,2023-08-09
+8689416,Juice,5,3,15.0,ERROR,UNKNOWN,2023-03-19
+1964555,Smoothie,2,4,8.0,"Digital Wallet",UNKNOWN,2023-04-11
+8868960,Salad,5,5,25.0,UNKNOWN,UNKNOWN,UNKNOWN
+1794862,Cake,2,3,6.0,Cash,UNKNOWN,2023-07-16
+5780615,Smoothie,3,4,12,Cash,UNKNOWN,2023-12-24
+2416816,Smoothie,5,4,20.0,"Digital Wallet",In-store,2023-10-19
+8005682,Coffee,2,2,4.0,"Credit Card",UNKNOWN,2023-03-16
+1778707,Salad,5,5,25.0,"Credit Card",Takeaway,2023-03-26
+9959813,Sandwich,4,4,16.0,"Digital Wallet",UNKNOWN,2023-09-05
+7675823,Tea,5,1.5,7.5,UNKNOWN,ERROR,UNKNOWN
+7913451,Sandwich,5,4,20.0,"Credit Card",UNKNOWN,2023-12-05
+1901729,Cake,2,3,6.0,UNKNOWN,Takeaway,2023-03-18
+8717428,Salad,3,5,15.0,"Digital Wallet",UNKNOWN,UNKNOWN
+2098878,Juice,2,3,6.0,UNKNOWN,Takeaway,2023-08-19
+9536472,Juice,5,3,15.0,UNKNOWN,UNKNOWN,2023-11-12
+6696913,Cake,4,3,12.0,UNKNOWN,UNKNOWN,2023-10-22
+8888153,Coffee,5,2,10.0,UNKNOWN,ERROR,2023-12-16
+5661147,Cake,1,3,3.0,UNKNOWN,Takeaway,2023-11-06
+3746260,Smoothie,5,4,20.0,"Digital Wallet",Takeaway,2023-08-26
+7805035,Smoothie,3,4,12.0,UNKNOWN,In-store,2023-05-18
+2058243,Smoothie,5,4,20.0,UNKNOWN,Takeaway,2023-03-19
+5710748,Salad,1,5,5.0,UNKNOWN,UNKNOWN,2023-10-31
+3725837,Coffee,5,2,10.0,Cash,In-store,2023-10-22
+4594922,Salad,2,5,10.0,"Credit Card",Takeaway,2023-06-19
+5163686,Salad,5,5,25.0,"Credit Card",In-store,2023-05-29
+5445318,Cookie,1,1,1.0,"Digital Wallet",UNKNOWN,2023-02-16
+2391446,Sandwich,3,4,12.0,UNKNOWN,In-store,2023-12-06
+2826603,Salad,2,5,10.0,"Digital Wallet",Takeaway,2023-06-22
+3760598,Cake,3,3,9.0,"Digital Wallet",In-store,2023-10-24
+7679707,Tea,1,1.5,1.5,"Credit Card",In-store,2023-07-22
+3831364,Tea,1,1.5,1.5,"Digital Wallet",UNKNOWN,2023-03-03
+5007619,Cake,5,3,15.0,"Credit Card",In-store,2023-07-05
+5124870,Tea,1,1.5,1.5,"Digital Wallet",UNKNOWN,2023-08-11
+8229546,Smoothie,2,4,8.0,Cash,UNKNOWN,2023-10-16
+3173923,Cookie,2,1,2.0,"Digital Wallet",UNKNOWN,2023-06-29
+8460786,Coffee,1,2,2.0,Cash,ERROR,2023-05-17
+7833800,Coffee,2,2,4.0,UNKNOWN,Takeaway,UNKNOWN
+9625287,Juice,2,3,6.0,Cash,In-store,2023-07-08
+3135132,Sandwich,4,4,16.0,"Credit Card",Takeaway,UNKNOWN
+4779440,Cookie,1,1,1.0,UNKNOWN,UNKNOWN,2023-07-12
+7337979,Coffee,1,2,2.0,"Digital Wallet",In-store,2023-05-27
+1713098,Smoothie,4,4,16.0,ERROR,UNKNOWN,2023-11-22
+5325729,Coffee,5,2,10.0,"Digital Wallet",UNKNOWN,2023-05-04
+5630457,Smoothie,1,4,4.0,"Credit Card",Takeaway,2023-03-01
+4167859,Coffee,5,2,10.0,UNKNOWN,Takeaway,2023-08-17
+4487966,Juice,3,3,9.0,Cash,In-store,2023-08-10
+1122140,Sandwich,4,4,16.0,Cash,UNKNOWN,2023-06-19
+7484682,Juice,1,3,3.0,Cash,UNKNOWN,2023-12-28
+5182042,Sandwich,4,4,16.0,UNKNOWN,Takeaway,2023-02-25
+4040989,Sandwich,1,4,4.0,UNKNOWN,UNKNOWN,2023-03-02
+3663712,Tea,4,1.5,6.0,"Digital Wallet",Takeaway,2023-09-22
+9140598,Juice,1,3,3.0,"Digital Wallet",Takeaway,2023-07-10
+4316299,Tea,2,1.5,3.0,"Credit Card",In-store,UNKNOWN
+5601300,Coffee,2,2,4.0,"Digital Wallet",UNKNOWN,2023-02-24
+9904662,Smoothie,1,4,4.0,UNKNOWN,In-store,2023-11-19
+3696194,Salad,2,5,10.0,"Credit Card",In-store,2023-11-27
+2964638,Salad,2,5,10.0,"Digital Wallet",In-store,2023-09-28
+8336656,Salad,5,5,25.0,Cash,Takeaway,2023-12-02
+2024121,Juice,5,3,15,"Digital Wallet",In-store,2023-11-06
+6287890,Tea,5,1.5,7.5,"Credit Card",Takeaway,2023-02-07
+4712887,Tea,5,1.5,7.5,"Credit Card",ERROR,2023-01-04
+4336892,Cookie,2,1,2.0,UNKNOWN,In-store,2023-06-04
+5447694,Smoothie,1,4,4,"Digital Wallet",In-store,2023-11-18
+2492058,Smoothie,5,4,20.0,Cash,UNKNOWN,2023-09-22
+3439712,Juice,4,3,12.0,UNKNOWN,In-store,2023-04-04
+5350401,Sandwich,2,4,8.0,"Digital Wallet",In-store,2023-10-28
+8999006,Smoothie,1,4,4,Cash,UNKNOWN,2023-02-07
+8514689,Juice,5,3,15.0,UNKNOWN,UNKNOWN,2023-04-15
+1866028,Tea,5,1.5,7.5,"Credit Card",Takeaway,2023-06-12
+8379141,Salad,1,5,5.0,ERROR,In-store,2023-10-01
+9152264,Cake,1,3,3.0,"Digital Wallet",Takeaway,2023-03-15
+3794585,Sandwich,1,4,4.0,"Credit Card",In-store,2023-02-10
+3856427,Juice,4,3,12,ERROR,In-store,2023-03-25
+9890874,Sandwich,5,4,20.0,Cash,In-store,2023-09-02
+3945716,Tea,2,1.5,3.0,UNKNOWN,UNKNOWN,2023-09-17
+6024625,Coffee,5,2,10.0,"Digital Wallet",Takeaway,2023-09-13
+7470910,Salad,2,5,10.0,Cash,In-store,2023-11-22
+1116119,Smoothie,4,4,16.0,"Digital Wallet",In-store,2023-08-07
+3471223,Coffee,1,2,2.0,"Digital Wallet",In-store,2023-10-08
+4491072,Smoothie,4,4,16.0,"Credit Card",UNKNOWN,2023-12-03
+2053993,Tea,2,1.5,3.0,UNKNOWN,Takeaway,2023-09-21
+5021925,Tea,4,1.5,6.0,Cash,In-store,2023-05-07
+6358073,Sandwich,3,4,12.0,UNKNOWN,UNKNOWN,UNKNOWN
+7764154,Salad,2,5,10.0,"Credit Card",Takeaway,2023-12-09
+2178735,Juice,3,3,9.0,"Credit Card",Takeaway,2023-07-24
+4125165,Coffee,5,2,10.0,Cash,UNKNOWN,2023-04-16
+5014959,Cookie,2,1,2.0,"Credit Card",In-store,2023-11-28
+8811565,Juice,5,3,15.0,"Credit Card",UNKNOWN,2023-10-01
+9868382,Coffee,2,2,4.0,"Digital Wallet",UNKNOWN,2023-06-02
+2924611,Juice,3,3,9.0,Cash,UNKNOWN,2023-04-19
+5348445,Salad,5,5,25.0,"Digital Wallet",In-store,2023-11-15
+8920751,Tea,2,1.5,3.0,UNKNOWN,UNKNOWN,2023-04-20
+7215985,Tea,4,1.5,6.0,"Credit Card",In-store,2023-08-07
+7448296,Cookie,1,1,1.0,"Credit Card",In-store,2023-11-15
+2625324,Coffee,1,2,2.0,UNKNOWN,UNKNOWN,2023-09-02
+3542902,Smoothie,1,4,4.0,ERROR,In-store,2023-06-10
+1494608,Tea,3,1.5,4.5,"Credit Card",In-store,2023-05-07
+7615147,Sandwich,4,4,16.0,Cash,In-store,2023-05-19
+3426892,Salad,4,5,20.0,"Credit Card",UNKNOWN,2023-05-23
+5892508,Smoothie,1,4,4.0,"Credit Card",Takeaway,2023-03-21
+5546684,Coffee,1,2,2.0,"Credit Card",In-store,2023-10-02
+5373527,Sandwich,2,4,8.0,UNKNOWN,ERROR,2023-06-26
+6402128,Sandwich,4,4,16.0,"Digital Wallet",In-store,2023-11-09
+5009706,Sandwich,2,4,8.0,"Digital Wallet",In-store,2023-09-20
+7223120,Juice,1,3,3.0,UNKNOWN,UNKNOWN,2023-03-13
+3380698,Coffee,3,2,6.0,"Credit Card",Takeaway,2023-12-15
+2996948,Smoothie,3,4,12,UNKNOWN,UNKNOWN,2023-06-25
+1148945,Coffee,1,2,2.0,UNKNOWN,UNKNOWN,2023-09-05
+2078577,Tea,4,1.5,6.0,"Credit Card",UNKNOWN,2023-01-31
+4007285,Sandwich,5,4,20.0,"Digital Wallet",UNKNOWN,2023-01-16
+1512118,Salad,4,5,20.0,Cash,In-store,2023-03-01
+6077816,Cake,3,3,9.0,"Credit Card",UNKNOWN,2023-09-26
+5136936,Cake,3,3,9.0,Cash,UNKNOWN,2023-08-24
+5654490,Tea,4,1.5,6.0,"Credit Card",UNKNOWN,2023-05-22
+4033888,Sandwich,2,4,8.0,Cash,In-store,2023-02-04
+4591512,Tea,2,1.5,3.0,UNKNOWN,UNKNOWN,2023-08-11
+6886495,Cookie,4,1,4.0,Cash,UNKNOWN,2023-08-07
+9218683,Cake,2,3,6.0,"Digital Wallet",In-store,ERROR
+2153529,Cookie,1,1,1.0,"Credit Card",UNKNOWN,2023-09-11
+7880148,Cake,3,3,9.0,"Credit Card",Takeaway,2023-12-12
+3688181,Cake,1,3,3.0,UNKNOWN,Takeaway,2023-08-23
+2482129,Juice,1,3,3.0,Cash,ERROR,2023-12-12
+4187420,Cake,3,3,9.0,"Digital Wallet",In-store,2023-01-31
+4146452,Smoothie,1,4,4.0,UNKNOWN,Takeaway,2023-05-31
+9553579,Cake,2,3,6.0,"Credit Card",In-store,2023-10-03
+3854285,Salad,3,5,15.0,Cash,Takeaway,2023-07-18
+5614488,Sandwich,1,4,4.0,"Credit Card",Takeaway,2023-07-22
+6187083,Cake,5,3,15.0,UNKNOWN,In-store,2023-06-02
+1521486,Salad,4,5,20.0,UNKNOWN,ERROR,2023-01-28
+6035534,Salad,4,5,20.0,"Credit Card",In-store,2023-12-18
+8781128,Sandwich,5,4,20.0,"Digital Wallet",Takeaway,ERROR
+7670743,Salad,4,5,20.0,UNKNOWN,In-store,2023-04-28
+7201724,Salad,1,5,5.0,Cash,Takeaway,2023-03-20
+3616362,Smoothie,5,4,20,"Digital Wallet",In-store,2023-12-02
+6113876,Cake,3,3,9.0,Cash,In-store,2023-03-01
+3163383,Tea,2,1.5,3.0,ERROR,In-store,2023-10-24
+7894514,Cake,1,3,3.0,UNKNOWN,UNKNOWN,2023-09-25
+6450138,Cake,1,3,3.0,"Credit Card",Takeaway,2023-04-13
+9874588,Sandwich,2,4,8.0,UNKNOWN,Takeaway,2023-06-04
+6732989,Salad,2,5,10.0,"Credit Card",UNKNOWN,2023-04-29
+5442610,Juice,2,3,6.0,ERROR,Takeaway,2023-12-10
+9328595,Tea,2,1.5,3.0,Cash,UNKNOWN,2023-10-24
+1324930,Sandwich,5,4,20,"Credit Card",Takeaway,2023-01-11
+6148397,Tea,4,1.5,6.0,UNKNOWN,In-store,2023-03-20
+8298711,Coffee,3,2,6.0,UNKNOWN,Takeaway,2023-01-26
+7085875,Juice,3,3,9.0,"Digital Wallet",In-store,2023-08-23
+3857768,Coffee,2,2,4.0,"Credit Card",UNKNOWN,2023-01-04
+5474440,Cake,2,3,6.0,"Credit Card",UNKNOWN,2023-11-08
+6057379,Salad,5,5,25.0,"Credit Card",Takeaway,2023-03-18
+4637070,Tea,3,1.5,4.5,"Credit Card",UNKNOWN,2023-06-13
+9313535,Cookie,1,1,1.0,"Digital Wallet",Takeaway,2023-06-04
+9626053,Salad,1,5,5.0,Cash,Takeaway,2023-08-11
+6622954,Smoothie,2,4,8.0,UNKNOWN,In-store,2023-01-13
+5509088,Sandwich,3,4,12.0,"Digital Wallet",UNKNOWN,2023-08-28
+5583534,Cookie,2,1,2.0,Cash,Takeaway,2023-10-31
+1438257,Salad,4,5,20.0,"Credit Card",Takeaway,2023-06-13
+6428593,Tea,5,1.5,7.5,UNKNOWN,UNKNOWN,2023-09-06
+4257830,Cookie,5,1,5.0,UNKNOWN,In-store,2023-08-04
+8780340,Cake,5,3,15.0,"Credit Card",UNKNOWN,2023-08-29
+5801294,Salad,1,5,5.0,ERROR,UNKNOWN,2023-10-20
+3963927,Sandwich,4,4,16.0,"Credit Card",In-store,2023-01-03
+2906443,Cake,4,3,12.0,UNKNOWN,UNKNOWN,2023-08-14
+2660295,Cookie,3,1,3.0,UNKNOWN,UNKNOWN,2023-12-06
+7023528,Tea,5,1.5,7.5,Cash,In-store,2023-10-28
+5419862,Juice,5,3,15.0,"Digital Wallet",UNKNOWN,2023-05-29
+9124680,Cookie,2,1,2.0,Cash,Takeaway,2023-10-03
+7853635,Salad,3,5,15.0,"Digital Wallet",Takeaway,2023-02-16
+2009893,Smoothie,3,4,12.0,ERROR,UNKNOWN,2023-12-06
+3516263,Cake,2,3,6.0,"Digital Wallet",In-store,2023-09-23
+1591640,Cake,2,3,6.0,Cash,In-store,2023-05-26
+9358958,Smoothie,1,4,4.0,UNKNOWN,Takeaway,2023-05-08
+7401710,Sandwich,5,4,20.0,Cash,UNKNOWN,2023-10-24
+2176727,Tea,1,1.5,1.5,UNKNOWN,Takeaway,2023-07-26
+5595717,Juice,2,3,6.0,UNKNOWN,UNKNOWN,2023-06-16
+1697018,Juice,4,3,12.0,"Digital Wallet",In-store,2023-07-02
+1910957,Tea,5,1.5,7.5,UNKNOWN,Takeaway,2023-07-25
+2667225,Salad,2,5,10.0,Cash,In-store,2023-11-21
+3152531,Coffee,3,2,6.0,"Credit Card",UNKNOWN,2023-11-24
+5033045,Salad,3,5,15.0,"Digital Wallet",UNKNOWN,2023-04-21
+7527249,Tea,3,1.5,4.5,UNKNOWN,Takeaway,2023-03-29
+9159212,Smoothie,3,4,12.0,"Digital Wallet",Takeaway,2023-01-12
+6881523,Juice,5,3,15.0,UNKNOWN,Takeaway,2023-02-24
+3282436,Salad,5,5,25.0,"Credit Card",In-store,2023-12-14
+4206256,Smoothie,3,4,12.0,UNKNOWN,ERROR,2023-10-10
+8465274,Cake,3,3,9.0,"Digital Wallet",Takeaway,2023-02-01
+7216922,Juice,5,3,15.0,UNKNOWN,UNKNOWN,2023-06-26
+8330446,Smoothie,3,4,12.0,"Credit Card",In-store,2023-08-06
+1282260,Sandwich,5,4,20.0,"Digital Wallet",UNKNOWN,2023-07-21
+9582716,Cake,2,3,6.0,UNKNOWN,UNKNOWN,ERROR
+9769410,Salad,1,5,5.0,Cash,In-store,2023-07-22
+7482583,Tea,5,1.5,7.5,"Credit Card",UNKNOWN,UNKNOWN
+3865224,Coffee,3,2,6.0,UNKNOWN,UNKNOWN,2023-07-25
+9603131,Smoothie,5,4,20.0,ERROR,UNKNOWN,2023-08-19
+1437083,Smoothie,2,4,8.0,"Credit Card",In-store,2023-03-15
+2413626,Cake,1,3,3.0,"Credit Card",Takeaway,2023-11-06
+3392848,Cake,2,3,6.0,Cash,In-store,2023-04-03
+7027905,Sandwich,1,4,4.0,"Credit Card",In-store,2023-07-17
+8808034,Smoothie,2,4,8.0,Cash,In-store,2023-08-09
+1663113,Smoothie,4,4,16.0,"Credit Card",Takeaway,2023-12-24
+1544070,Coffee,5,2,10.0,UNKNOWN,Takeaway,2023-09-05
+6189334,Sandwich,1,4,4.0,Cash,In-store,2023-01-12
+3412490,Cake,2,3,6.0,Cash,In-store,UNKNOWN
+1852586,Cake,5,3,15.0,UNKNOWN,In-store,UNKNOWN
+3410971,Smoothie,1,4,4.0,UNKNOWN,Takeaway,2023-01-02
+6467618,Tea,3,1.5,4.5,UNKNOWN,Takeaway,2023-10-12
+6908287,Cookie,1,1,1.0,Cash,In-store,2023-08-04
+1803889,Salad,4,5,20.0,UNKNOWN,UNKNOWN,2023-06-23
+6829707,Sandwich,1,4,4.0,Cash,Takeaway,2023-08-17
+7303706,Coffee,2,2,4.0,Cash,In-store,2023-12-14
+1730647,Juice,5,3,15.0,"Digital Wallet",In-store,2023-01-18
+9691018,Sandwich,2,4,8.0,"Digital Wallet",UNKNOWN,2023-07-21
+9138791,Cake,1,3,3,"Digital Wallet",In-store,2023-03-22
+2367947,Smoothie,5,4,20.0,UNKNOWN,Takeaway,2023-05-13
+4936135,Coffee,4,2,8.0,Cash,In-store,2023-12-08
+5311015,Smoothie,3,4,12.0,ERROR,UNKNOWN,2023-05-11
+7732920,Sandwich,5,4,20.0,Cash,UNKNOWN,2023-02-11
+4496665,Sandwich,2,4,8.0,"Digital Wallet",Takeaway,2023-12-10
+6816094,Tea,4,1.5,6.0,UNKNOWN,In-store,2023-12-30
+8209794,Coffee,5,2,10.0,"Credit Card",Takeaway,2023-10-25
+4135454,Sandwich,4,4,16.0,UNKNOWN,In-store,2023-07-23
+3942164,Coffee,4,2,8.0,"Credit Card",UNKNOWN,UNKNOWN
+2761542,Cookie,4,1,4.0,UNKNOWN,UNKNOWN,2023-10-15
+7948095,Salad,5,5,25,UNKNOWN,Takeaway,2023-07-18
+3330687,Cake,5,3,15.0,Cash,In-store,2023-12-26
+6243479,Sandwich,5,4,20.0,UNKNOWN,UNKNOWN,2023-09-18
+9296807,Coffee,3,2,6.0,"Credit Card",UNKNOWN,2023-12-20
+5354746,Coffee,4,2,8.0,"Digital Wallet",Takeaway,2023-03-06
+1235969,Cookie,1,1,1.0,"Digital Wallet",UNKNOWN,2023-07-08
+4240796,Juice,4,3,12.0,UNKNOWN,UNKNOWN,2023-03-28
+3736798,Coffee,4,2,8.0,"Digital Wallet",In-store,2023-07-01
+9102030,Smoothie,4,4,16.0,"Digital Wallet",In-store,ERROR
+8118419,Cake,3,3,9.0,UNKNOWN,UNKNOWN,2023-12-03
+3089814,Cake,5,3,15.0,"Digital Wallet",UNKNOWN,2023-03-25
+6719521,Salad,5,5,25.0,Cash,In-store,2023-08-03
+6530795,Cookie,1,1,1.0,"Credit Card",UNKNOWN,2023-04-30
+4176373,Cookie,3,1,3.0,Cash,UNKNOWN,2023-03-28
+7230500,Juice,3,3,9.0,"Credit Card",UNKNOWN,2023-12-12
+7094898,Salad,4,5,20.0,UNKNOWN,Takeaway,2023-06-20
+2400518,Juice,3,3,9.0,"Credit Card",UNKNOWN,2023-02-04
+5349288,Coffee,4,2,8.0,"Digital Wallet",UNKNOWN,2023-11-20
+6806290,Salad,3,5,15.0,UNKNOWN,UNKNOWN,2023-05-02
+5386752,Salad,4,5,20.0,"Digital Wallet",In-store,2023-12-07
+1022523,Salad,4,5,20.0,Cash,In-store,2023-11-25
+3125997,Juice,4,3,12.0,UNKNOWN,UNKNOWN,2023-10-19
+6202015,Cookie,2,1,2.0,"Credit Card",Takeaway,2023-08-22
+6928137,Cake,3,3,9.0,"Digital Wallet",In-store,2023-10-11
+3003809,Coffee,4,2,8.0,Cash,UNKNOWN,2023-04-21
+5913013,Cookie,2,1,2.0,"Credit Card",Takeaway,2023-11-29
+7433269,Tea,1,1.5,1.5,Cash,In-store,2023-05-18
+3103972,Cake,1,3,3.0,ERROR,UNKNOWN,2023-03-01
+9081115,Juice,3,3,9,UNKNOWN,UNKNOWN,2023-12-04
+2633600,Salad,5,5,25,Cash,Takeaway,2023-11-28
+4631695,Cookie,5,1,5.0,UNKNOWN,In-store,2023-11-18
+3121271,Smoothie,2,4,8.0,"Credit Card",UNKNOWN,2023-08-13
+4613883,Tea,1,1.5,1.5,Cash,UNKNOWN,2023-05-21
+2166064,Coffee,4,2,8.0,UNKNOWN,In-store,2023-02-08
+4617771,Smoothie,4,4,16.0,"Digital Wallet",Takeaway,2023-09-10
+9444461,Sandwich,2,4,8.0,UNKNOWN,ERROR,2023-05-28
+1741325,Tea,2,1.5,3.0,"Credit Card",In-store,2023-03-31
+9370294,Cake,2,3,6.0,"Credit Card",UNKNOWN,2023-04-23
+9983356,Sandwich,2,4,8.0,"Digital Wallet",Takeaway,2023-09-20
+8964527,Sandwich,4,4,16.0,"Digital Wallet",Takeaway,2023-02-22
+6313325,Cookie,5,1,5.0,ERROR,UNKNOWN,2023-07-07
+9497634,Juice,3,3,9.0,Cash,UNKNOWN,2023-07-20
+9408993,Sandwich,1,4,4.0,"Digital Wallet",In-store,2023-08-19
+7810285,Cake,4,3,12.0,Cash,Takeaway,2023-10-25
+5322809,Cake,2,3,6.0,UNKNOWN,ERROR,2023-04-30
+1961595,Smoothie,5,4,20.0,"Digital Wallet",In-store,2023-07-02
+1200795,Sandwich,1,4,4.0,UNKNOWN,In-store,2023-08-18
+8958073,Smoothie,1,4,4.0,UNKNOWN,UNKNOWN,2023-03-31
+4114503,Salad,5,5,25.0,UNKNOWN,Takeaway,2023-11-07
+4179561,Cookie,2,1,2.0,"Digital Wallet",In-store,2023-11-12
+5669113,Sandwich,2,4,8,UNKNOWN,Takeaway,2023-03-19
+7574828,Coffee,2,2,4.0,UNKNOWN,In-store,2023-09-24
+9056301,Cookie,2,1,2.0,"Credit Card",Takeaway,2023-03-02
+8530924,Sandwich,2,4,8.0,"Credit Card",ERROR,2023-08-05
+5965422,Coffee,2,2,4.0,"Credit Card",UNKNOWN,2023-06-20
+6910030,Coffee,4,2,8.0,"Digital Wallet",Takeaway,2023-07-09
+3713626,Sandwich,2,4,8.0,Cash,UNKNOWN,2023-12-24
+5753095,Sandwich,4,4,16.0,UNKNOWN,UNKNOWN,2023-06-25
+5538503,Smoothie,2,4,8.0,UNKNOWN,In-store,2023-09-05
+7609781,Smoothie,3,4,12.0,Cash,In-store,2023-03-13
+8398059,Cake,1,3,3.0,Cash,Takeaway,2023-10-15
+1792573,Smoothie,5,4,20.0,Cash,Takeaway,2023-12-07
+4812472,Cake,2,3,6.0,Cash,UNKNOWN,2023-09-16
+1789644,Coffee,4,2,8.0,"Credit Card",In-store,ERROR
+5050993,Cookie,4,1,4.0,UNKNOWN,ERROR,2023-02-06
+9991225,Cake,5,3,15.0,"Credit Card",Takeaway,2023-02-03
+8734476,Tea,1,1.5,1.5,Cash,Takeaway,2023-09-12
+6471962,Sandwich,4,4,16.0,Cash,Takeaway,2023-09-21
+1981602,Sandwich,4,4,16.0,Cash,UNKNOWN,2023-09-04
+4792702,Sandwich,1,4,4.0,Cash,Takeaway,2023-06-28
+3572190,Coffee,5,2,10.0,"Credit Card",Takeaway,2023-03-05
+6791398,Coffee,1,2,2.0,"Credit Card",Takeaway,2023-12-17
+8361255,Cake,3,3,9.0,Cash,Takeaway,2023-07-29
+1096690,Smoothie,5,4,20,"Credit Card",UNKNOWN,2023-10-09
+1371554,Sandwich,2,4,8,UNKNOWN,UNKNOWN,2023-05-19
+5102956,Cake,5,3,15.0,UNKNOWN,UNKNOWN,UNKNOWN
+1476066,Smoothie,2,4,8.0,ERROR,Takeaway,2023-10-19
+6078834,Smoothie,1,4,4.0,"Digital Wallet",Takeaway,2023-04-28
+7812601,Tea,2,1.5,3.0,"Credit Card",UNKNOWN,2023-11-15
+8186625,Cookie,1,1,1.0,"Digital Wallet",Takeaway,2023-07-21
+3713976,Juice,2,3,6.0,UNKNOWN,Takeaway,2023-11-06
+2946829,Cookie,2,1,2.0,"Digital Wallet",Takeaway,2023-02-08
+8750849,Cake,2,3,6.0,"Credit Card",Takeaway,2023-03-03
+2889344,Sandwich,3,4,12.0,UNKNOWN,In-store,2023-05-21
+4067814,Tea,5,1.5,7.5,Cash,UNKNOWN,2023-12-20
+1973716,Salad,4,5,20.0,"Credit Card",In-store,2023-01-21
+1105589,Coffee,5,2,10.0,Cash,Takeaway,2023-07-04
+3727374,Cake,2,3,6.0,UNKNOWN,In-store,2023-04-10
+9155299,Juice,3,3,9.0,UNKNOWN,Takeaway,2023-02-09
+1346936,Cookie,5,1,5.0,ERROR,UNKNOWN,2023-10-10
+2089778,Cake,1,3,3.0,UNKNOWN,In-store,2023-06-12
+5375349,Coffee,1,2,2.0,UNKNOWN,Takeaway,2023-11-13
+6206171,Cake,1,3,3.0,"Digital Wallet",UNKNOWN,2023-03-19
+9256387,Tea,5,1.5,7.5,UNKNOWN,UNKNOWN,2023-05-31
+6915192,Coffee,4,2,8.0,UNKNOWN,In-store,2023-12-09
